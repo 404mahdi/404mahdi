@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">My name is Mahdi and I'm a CS undergrad from Bangladesh.</p>
+<p align="left">I am Mahdi, a CS undergrad from Bangladesh.</p>
 
 ###
 
