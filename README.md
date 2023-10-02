@@ -3,6 +3,7 @@
 <div align="center">
   <img height="200" src="https://github.com/404mahdi/404mahdi/assets/119351159/25fa59be-baff-4e37-808e-0517231928cb"  />
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=404mahdi&label=Profile%20views&color=0e75b6&style=flat" alt="404mahdi" /> </p>
 
 ###
 
@@ -15,6 +16,16 @@
 ###
 
 <p align="left">✨ Creating bugs since 2022</p>
+
+###
+
+<h2 align="left">Connect with me:</h2>
+
+###
+
+<p align="left">
+<a href="https://linkedin.com/in/mahdi-meem-143b98256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-meem-143b98256" height="30" width="40" /></a>
+</p>
 
 ###
 
@@ -46,6 +57,8 @@
 </div>
 
 ###
+
+<p align='center'><a href='https://git.io/streak-stats'><img src='https://streak-stats.demolab.com?user=404mahdi&theme=dark'></a></p>
 
 <!--
 **404mahdi/404mahdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
