@@ -3,7 +3,9 @@
 <div align="center">
   <img height="200" src="https://github.com/404mahdi/404mahdi/assets/119351159/25fa59be-baff-4e37-808e-0517231928cb"  />
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=404mahdi&label=Profile%20views&color=0e75b6&style=flat" alt="404mahdi" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=404mahdi&label=Profile%20views&color=0e75b6&style=flat" alt="404mahdi" />
+<a href="mailto: mahdi.ndc21@gmail.com"><img src="https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff" alt="Gmail" /> </a>
+</p>
 
 ###
 
@@ -15,7 +17,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022</p>
+<p align="left">✨ Creating bugs since 2021</p>
 
 ###
 
