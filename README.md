@@ -13,15 +13,25 @@
 
 ###
 
-<h2 align="left">About me</h2>
+## 💬 About me:
 
 ###
 
 <p align="left">✨ Creating bugs since 2021</p>
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 ###
 
-<h2 align="left">Connect with me:</h2>
+## 🔗 Connect with me:
 
 ###
 
@@ -31,7 +41,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+## 📙 I code with:
 
 ###
 
@@ -51,7 +61,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
+### 
+
+## 🛠️ Tools:
+
 ###
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000005?style=flat&logo=visual%20studio%20code)<br />
+![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-000000?style=flat&logo=adobe%20premiere%20pro)
+![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
+![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator) <br />
+![Canva](https://img.shields.io/badge/-Canva-000000?style=flat&logo=canva)<br />
+
+
+###
+
+## GitHub Overview 💻
+
+###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=404mahdi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -62,17 +93,3 @@
 
 <p align='center'><a href='https://git.io/streak-stats'><img src='https://streak-stats.demolab.com?user=404mahdi&theme=dark'></a></p>
 
-<!--
-**404mahdi/404mahdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
