@@ -95,5 +95,5 @@
 
 ###
 
-<p align='center'><a href='https://git.io/streak-stats'><img src='https://streak-stats.demolab.com?user=404mahdi&theme=dark'></a></p>
+<p align='center'><a href='https://github.com/404mahdi'><img src='https://streak-stats.demolab.com?user=404mahdi&theme=dark'></a></p>
 
