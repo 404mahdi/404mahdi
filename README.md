@@ -37,7 +37,7 @@
 
 <div align="left">
   <a href="mailto: mahdi.ndc21@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="25" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/mahdi-meem-143b98256/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="25" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/mahdi-meem/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="25" alt="linkedin logo"  /></a>
   <a href="https://discord.com/users/796067750069927988"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="25" alt="discord logo"  /></a>
   <a href="https://t.me/ggwp_404"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="32" height="25" alt="telegram logo"  /></a>
   <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="32" height="25" alt="youtube logo"  />-->
