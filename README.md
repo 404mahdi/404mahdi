@@ -3,6 +3,7 @@
 
 ![views](https://komarev.com/ghpvc/?username=404mahdi&label=Profile%20views&color=0e75b6&style=flat)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:mahdi.ndc21@gmail.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/100?label=Followers&style=social)](https://twitter.com/Mahdi_Meem)
 
 ###
 
@@ -34,11 +35,13 @@
 
 <div align="left">
   <a href="mailto: mahdi.ndc21@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="25" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/mahdi-meem/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="25" alt="linkedin logo"  /></a>
-  <a href="https://discord.com/users/796067750069927988"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="25" alt="discord logo"  /></a>
-  <a href="https://t.me/ggwp_404"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="32" height="25" alt="telegram logo"  /></a>
+    <a href="https://twitter.com/Mahdi_Meem" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32" height="25" alt="twitter logo"  /></a>
+  <a href="https://www.linkedin.com/in/mahdi-meem/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="25" alt="linkedin logo"  /></a>
+  <a href="https://discord.com/users/796067750069927988" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="25" alt="discord logo"  /></a>
+  <a href="https://t.me/ggwp_404" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="32" height="25" alt="telegram logo"  /></a>
   <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="32" height="25" alt="youtube logo"  />-->
 </div>
+
 
 ###
 
