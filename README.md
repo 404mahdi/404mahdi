@@ -3,7 +3,7 @@
 
 ![views](https://komarev.com/ghpvc/?username=404mahdi&label=Profile%20views&color=0e75b6&style=flat)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:mahdi.ndc21@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode--orange?style=flat&logo=leetcode&labelColor=black)](https://leetcode.com/mahdi404/)
+[![LeetCode](https://img.shields.io/badge/LeetCode--black?logo=leetcode&labelColor=%231c1b1b&color=%231c1b1b)](https://leetcode.com/mahdi404/)
 
 ###
 
