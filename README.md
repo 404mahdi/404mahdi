@@ -10,16 +10,18 @@
 
 <p align="left">I am Mahdi, a CSE undergrad from Bangladesh.</p>
 
-###
 
-## 💬 About me:
 
-###
 
-<p align='left'>✨ Creating bugs since 2021</p>
-<p align='left'>🔭 I’m currently working on automation, scripting and development.</p>
-<p align='left'>🌱 I’m currently learning algorithms, scripting, front-end, back-end development.</p>
-<p align='left'>👯 I’m looking to collaborate on projects related to automation/scrapping/scripting (python) and development.</p>
+### 💬 About me:
+
+
+- ✨ Creating bugs since 2021
+- 🔭 I’m currently working on automation, scripting and development.
+- 🌱 I’m currently learning algorithms, scripting, front-end, back-end development.
+- 👯 I’m looking to collaborate on projects related to automation/scrapping/scripting (python) and development.
+
+
 
 <!--
 - 🔭 I’m currently working on ...
@@ -32,11 +34,11 @@
 - ⚡ Fun fact: ...
 -->
 
-###
 
-## 🔗 Connect with me:
 
-###
+
+### 🔗 Connect with me:
+
 
 <div align="left">
   <a href="mailto: business.mahdi.hasan@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="25" alt="gmail logo"  /></a>
@@ -48,11 +50,12 @@
 </div>
 
 
-###
 
-## 📙 I code with:
 
-###
+
+
+### 📙 I code with:
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
@@ -70,11 +73,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
 </div>
 
-### 
 
-## 🛠️ Tools:
 
-###
+
+
+
+
+### 🛠️ Tools:
+
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
@@ -86,11 +92,10 @@
 ![Canva](https://img.shields.io/badge/-Canva-000000?style=flat&logo=canva)<br />
 
 
-###
 
-## GitHub Overview 💻
 
-###
+### GitHub Overview 💻
+
 
 
 <div align="center">
