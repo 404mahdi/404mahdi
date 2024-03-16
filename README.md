@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am Mahdi, a CS undergrad from Bangladesh.</p>
+<p align="left">I am Mahdi, a CSE undergrad from Bangladesh.</p>
 
 ###
 
@@ -16,7 +16,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021</p>
+<p align='left'>✨ Creating bugs since 2021</p>
+<p align='left'>🔭 I’m currently working on automation, scripting and development.</p>
+<p align='left'>🌱 I’m currently learning algorithms, scripting, front-end, back-end development.</p>
+<p align='left'>👯 I’m looking to collaborate on projects related to automation/scrapping/scripting (python) and development.</p>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -74,7 +78,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) 
+![PyCharm](https://img.shields.io/badge/PyCharm-PyCharm?logo=pycharm&labelColor=black&color=black)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000005?style=flat&logo=visual%20studio%20code)<br />
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-000000?style=flat&logo=adobe%20premiere%20pro)
 ![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
