@@ -18,7 +18,7 @@
 
 - ✨ Creating bugs since 2021
 - 🔭 I’m currently working on automation, scripting and development.
-- 🌱 I’m currently learning algorithms, scripting, front-end, back-end development.
+- 🌱 I’m currently learning DBMS, Backend-Development.
 - 👯 I’m looking to collaborate on projects related to automation/scrapping/scripting (python) and development.
 
 
