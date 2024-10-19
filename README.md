@@ -7,10 +7,9 @@
 [![YouTube](https://img.shields.io/badge/YouTube-g?logo=youtube&labelColor=red&color=black)](https://www.youtube.com/@404mahdi)
 
 ###
-
+<!--
 <p align="left">I am Mahdi, a CSE undergrad from Bangladesh.</p>
-
-
+-->
 
 
 ### 💬 About me:
