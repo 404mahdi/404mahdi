@@ -3,7 +3,7 @@
 
 ![views](https://komarev.com/ghpvc/?username=404mahdi&label=Profile%20views&color=0e75b6&style=flat)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:business.mahdi.hasan@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-black?logo=leetcode&logoColor=white&labelColor=orange)](https://leetcode.com/mahdi404/)
+<!--[![LeetCode](https://img.shields.io/badge/-LeetCode-black?logo=leetcode&logoColor=white&labelColor=orange)](https://leetcode.com/mahdi404/)-->
 [![YouTube](https://img.shields.io/badge/YouTube-g?logo=youtube&labelColor=red&color=black)](https://www.youtube.com/@404mahdi)
 
 ###
@@ -16,7 +16,7 @@
 
 
 - ✨ Creating bugs since 2021
-- 🚩 I’m currently RED
+- 🎓 I’m currently in my 3rd year in CSE
 
 
 
